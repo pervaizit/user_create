@@ -1,6 +1,11 @@
 myusers:
-   - name: ravi
+   - name: hamza
      uid: 1010
-     first: ravi
-     last: sharma
+     first: m
+     last: azt
+     middle: exam
+   - name: azeem
+     uid: 1011
+     first: m
+     last: azt
      middle: exam
